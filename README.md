@@ -7,3 +7,4 @@
 - Using Flexbox for the Components.
 - All content is consumed through the ![Fake Store API](https://fakestoreapi.com/).
 - The app is responsive for Web and Mobile.
+- Using Styled Components to style my components.
