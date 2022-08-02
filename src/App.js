@@ -1,9 +1,12 @@
+import BuyButton from './Components/Buttons/BuyButton';
+import Wrapper from './Components/Wrapper';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Teste api</h1>
-    </div>
+    <Wrapper>
+      teste
+      <BuyButton>Buy</BuyButton>
+    </Wrapper>
   );
 }
 
