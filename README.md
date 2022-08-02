@@ -9,6 +9,6 @@
 - The app is responsive for Web and Mobile.
 - Using Styled Components to style my components.
 - Using Axios to consume the API.
-- Using react routes to make the routes between the pages.
+- Using react router to make the routes between the pages.
 
 ## ![Based theme](https://www.behance.net/gallery/146959827/SOLMAR-E-Commerce-redesign?tracking_source=search_projects%7Cstore)
