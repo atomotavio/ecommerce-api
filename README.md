@@ -12,3 +12,10 @@
 - Using react router to make the routes between the pages.
 
 ## ![Based theme](https://www.behance.net/gallery/146959827/SOLMAR-E-Commerce-redesign?tracking_source=search_projects%7Cstore)
+
+Important links:
+
+![About grid layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+![About flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+![styled-components doc](https://styled-components.com/docs/basics)
+![React router dom](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
