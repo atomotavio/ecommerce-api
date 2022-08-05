@@ -1,7 +1,7 @@
-function Teste () {
+function Home () {
     return(
         <h1>Teste</h1>
     )
 }
 
-export default Teste;
+export default Home;

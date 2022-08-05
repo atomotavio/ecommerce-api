@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route,  Navigate } from "react-router-dom";
-import Teste from "../pages/teste/teste";
-import Teste2 from "../pages/teste2/teste2"
+import Teste from "../pages/home";
+import Teste2 from "../pages/product";
 
 //TODO: make the paths constants
 
@@ -8,8 +8,8 @@ const Router = () => {
     return(
         <BrowserRouter>
             <Routes>
-                <Route path="som" element={<Teste/>}/>
-                <Route path="/*" element={<Teste2/>}/>
+                <Route path="/*" element={<Teste/>}/>
+                <Route path="/product" element={<Teste2/>}/>
             </Routes>
         </BrowserRouter>
     )
