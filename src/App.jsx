@@ -1,11 +1,10 @@
 import Wrapper from './shared/Wrapper';
-import Teste from './pages/teste/teste'
+import Router from './routes';
 
 function App() {
   return (
     <Wrapper>
-      <h1>Página inicial</h1>
-      <Teste></Teste>
+      <Router></Router>
     </Wrapper>
   );
 }
